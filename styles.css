@@ -1,0 +1,73 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: red;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    color: black;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.start-button {
+    height: 40px;
+}
+
+/* Check out `display:none`. What do you think it does?*/
+.treasure {
+    display: none;
+    font-family: 'Coiny', cursive;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.page2 {
+    display: none;
+}
+
+.page3 {
+    display: none;
+}
+
+.page4 {
+    display: none;
+}
+
+.passpage2 {
+    display: none;
+}
+
+.page5 {
+    display: none;
+}
+
+.losepage5 {
+    display: none;
+}
+.lpage4 {
+    display: none;
+}
